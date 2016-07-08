@@ -1,0 +1,65 @@
+/* Empty. Add your own CSS if you like */
+
+
+@font-face {
+    font-family: 'bavroregular';
+    src: url('../fonts/bavro-regular-webfont.eot');
+    src: url('../fonts/bavro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bavro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/bavro-regular-webfont.woff') format('woff'),
+         url('../fonts/bavro-regular-webfont.ttf') format('truetype'),
+         url('../fonts/bavro-regular-webfont.svg#bavroregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+	font-family: 'bavroregular';
+}
+
+@font-face {
+    font-family: 'digital-7';
+    src: url('../fonts/digital-7.ttf');
+}
+
+.day-card.card{
+	border-radius: 0;
+}
+
+.card.red-card{
+	border-left: 2px solid #f77676;	
+	border-radius: 0;
+}
+
+.card.green-card{
+	border-left: 2px solid #9CCC65;	
+	border-radius: 0;
+}
+
+.day-card .item.item-divider{
+	background: white;	
+	font-weight: normal;
+	padding: 15px;	
+	 font-family: 'bavroregular';
+}
+
+.day-card .item{
+	border-top: none;
+	padding-top: 0;
+	padding-bottom: 15px;
+	display: block;
+}
+
+.day-card .row .col-50:nth-child(2){
+	text-align: right;
+}
+
+.day-card .time{
+	font-size: 2em;
+	/* font-family: 'digital-7'; */
+}
+
+.day-card .day{
+	letter-spacing: 2px;
+}

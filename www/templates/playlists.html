@@ -1,0 +1,33 @@
+<ion-view view-title="Timekeeper">
+<ion-content>
+<ion-list>
+<div class="card green-card day-card" ng-repeat="playlist in playlists" href="#/app/playlists/{{playlist.id}}">
+	<div class="item item-divider day">
+		{{playlist.title}}
+	</div>
+	<div class="item item-text-wrap">
+		<div class="row">
+			<div class="col col-50">
+				<span class="time">
+					9:06
+				</span>
+				<span class="meridiem">
+					AM
+				</span>
+			</div>
+
+			<div class="col col-50">
+				<span class="time">
+					6:11
+				</span>
+				<span class="meridiem">
+					PM
+				</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+</ion-list>
+</ion-content>
+</ion-view>
