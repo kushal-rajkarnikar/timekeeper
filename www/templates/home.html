@@ -1,9 +1,44 @@
 <ion-view view-title="Timekeeper">
+
 <ion-content>
-<ion-list>
-<div class="card day-card">
- 	{{date | date:'HH-mm-ss'}}
+
+
+<div class="hero">
+	<div class="username">
+		John Doe
 	</div>
+
+	<!-- <div class="hours-left">
+		45 hours
+	</div> -->
+
+	<div class="attendace">
+		<p align="center" ng-show="!attendanceToggleModel.status">		
+			Sign In
+		</p>
+		<p align="center" ng-show="attendanceToggleModel.status">		
+			Sign Out
+		</p>
+		<label class="toggle">
+			<input type="checkbox" ng-click="attendance()" ng-model="attendanceToggleModel.status">
+			<div class="track">
+				<div class="handle"></div>
+			</div>
+		</label>
+	</div>
+</div>
+
+
+  
+
+
+<ion-list>
+<!-- <div class="card day-card">
+	{{date | date:'HH-mm-ss'}}
+</div> -->
+
+<h5 class="title" align="left" style="padding-left: 10px; font-weight: normal;">This Week</h5>
+
 <div class="card green-card day-card" ng-repeat="playlist in playlists" href="#/app/playlists/{{playlist.id}}">
 	<div class="item item-divider day">
 		{{playlist.title}}
@@ -61,5 +96,6 @@
 </div>
 
 </ion-list>
+
 </ion-content>
 </ion-view>

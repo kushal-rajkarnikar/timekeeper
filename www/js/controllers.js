@@ -41,15 +41,51 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('PlaylistsCtrl', function($scope) {
+.controller('ThisWeekCtrl', function($scope, $ionicPopup){
   $scope.playlists = [
-    { title: 'Monday', login_time: "9:00", logout_time: "6:00", id: 1 },
-    { title: 'Tuesday', login_time: "9:13", logout_time: "6:05", id: 2 },
-    { title: 'Wednesday', login_time: "9:02", logout_time: "6:00", id: 3 },
-    { title: 'Thursday', login_time: "9:09", logout_time: "5:45", id: 4 },
+  { title: 'Monday', login_time: "9:00", logout_time: "6:00", id: 1 },
+  { title: 'Tuesday', login_time: "9:13", logout_time: "6:05", id: 2 },
+  { title: 'Wednesday', login_time: "9:02", logout_time: "6:00", id: 3 },
+  { title: 'Thursday', login_time: "9:09", logout_time: "5:45", id: 4 },
     // { title: 'Friday', login_time: "9:11", logout_time: "6:25", id: 5 },    
-  ];
+    ];
+
+  // $scope.attendanceToggleModel = {
+  //    status1 : 'Sign In'       ,
+  //    status2 : 'Sign Out'
+  //  };
+
+
+ 
+  // An alert dialog
+  $scope.attendance = function() {
+
+    var attendance = $ionicPopup.alert({
+     title: 'Signed In',
+     template: 'You signed in at 9:06am.'
+   });
+   attendance.then(function(res) {
+     console.log('User signed in at 9:06am.');
+   });
+ };
+
+
+
 })
+
+.controller('PlaylistsCtrl', function($scope) {
+
+
+ $scope.date = new Date();
+
+ $scope.playlists = [
+ { title: 'Monday', login_time: "9:00", logout_time: "6:00", id: 1 },
+ { title: 'Tuesday', login_time: "9:13", logout_time: "6:05", id: 2 },
+ { title: 'Wednesday', login_time: "9:02", logout_time: "6:00", id: 3 },
+ { title: 'Thursday', login_time: "9:09", logout_time: "5:45", id: 4 },
+    // { title: 'Friday', login_time: "9:11", logout_time: "6:25", id: 5 },    
+    ];
+  })
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {
 });
