@@ -39,21 +39,39 @@
 }
 
 .card.red-card{
-	border-left: 2px solid #f77676;	
+	border-left: 2px solid #f77676;
 	border-radius: 0;
 }
 
 .card.green-card{
-	border-left: 2px solid #9CCC65;	
+	border-left: 2px solid #9CCC65;
 	border-radius: 0;
 }
 
 .day-card .item.item-divider{
-	background: white;	
+	background: white;
 	font-weight: normal;
-	padding: 15px;	
+	// padding: 15px;
 	font-family: 'bavroregular';
 }
+
+.day-card .item.item-text-wrap .row{
+	padding-top: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.day-card .item.item-divider.day .row{
+	padding-bottom: 0;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.day-card .item.item-divider.day, .day-card .item.item-text-wrap{
+	padding-bottom: 0;
+}
+
+
 
 .day-card .item{
 	border-top: none;
@@ -67,7 +85,7 @@
 }
 
 .day-card .time{
-	font-size: 2em;
+	font-size: 1.5em;
 	/* 	font-family: 'Montserrat-UltraLight'; */
 	/* 	font-family: 'Raleway-Light'; */
 	font-family: 'Roboto-Thin';
@@ -79,6 +97,7 @@
 
 .day-card .day{
 	letter-spacing: 2px;
+	font-size: 1em;
 }
 
 .dotted-card{
@@ -90,23 +109,34 @@
 	background: url('../img/blur.jpg') center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 250px;
+	height: 20%;
 	color: white;
 	text-shadow: 1px 1px rgba(0,0,0,0.75);
 	text-align: center;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: cente;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	margn-top: 43px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 .hero .username{
 	font-size: 1.5rem;
 	font-family: 'Montserrat-Light';
-	padding-top: 20%;
+	/*padding-top: 20%;*/
 }
 
 .hero .hours-left{
 	font-size: 2rem;
-		font-family: 'Roboto-Thin';
+	font-family: 'Roboto-Thin';
 }
 
 h5{
-	font-family: 'Roboto-Thin';	
+	font-family: 'Roboto-Thin';
 }

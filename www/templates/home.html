@@ -1,12 +1,12 @@
 <ion-view view-title="Timekeeper">
 
-<ion-content>
+	<ion-content>
 
 
-<div class="hero">
-	<div class="username">
-		John Doe
-	</div>
+		<div class="hero">
+			<div class="username">
+				John Doe
+			</div>
 
 	<!-- <div class="hours-left">
 		45 hours
@@ -20,7 +20,7 @@
 			Sign Out
 		</p>
 		<label class="toggle">
-			<input type="checkbox" ng-click="attendance()" ng-model="attendanceToggleModel.status">
+			<input type="checkbox" ng-click="attendance(attendanceToggleModel.status)" ng-model="attendanceToggleModel.status">
 			<div class="track">
 				<div class="handle"></div>
 			</div>
@@ -29,7 +29,7 @@
 </div>
 
 
-  
+
 
 
 <ion-list>
@@ -41,8 +41,11 @@
 
 <div class="card green-card day-card" ng-repeat="playlist in playlists" href="#/app/playlists/{{playlist.id}}">
 	<div class="item item-divider day">
-		{{playlist.title}}
-
+		<div class="row">
+			<div class="col col-100">
+				{{playlist.title}}
+			</div>
+		</div>
 	</div>
 	<div class="item item-text-wrap">
 		<div class="row">
@@ -67,9 +70,45 @@
 	</div>
 </div>
 
+<div class="card red-card day-card">
+	<div class="item item-divider day">
+		<div class="row">
+			<div class="col col-100">
+				THURSDAY
+			</div>
+		</div>
+
+	</div>
+	<div class="item item-text-wrap">
+		<div class="row">
+			<div class="col col-50">
+				<span class="time">
+					9:59
+				</span>
+				<span class="meridiem">
+					AM
+				</span>
+			</div>
+
+			<div class="col col-50">
+				<span class="time">
+					5:20
+				</span>
+				<span class="meridiem">
+					PM
+				</span>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="card dotted-card day-card">
 	<div class="item item-divider day">
-		Friday
+		<div class="row">
+			<div class="col col-100">
+				Friday
+			</div>
+		</div>
 
 	</div>
 	<div class="item item-text-wrap">

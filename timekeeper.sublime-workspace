@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mater",
+				"material_theme_appbar_blue"
+			],
+			[
+				"fa",
+				"femp-a	font-emphasize-position: after;"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"nor",
+				"no-repeat"
+			],
+			[
+				"onkey",
+				"onkeypress	Attr"
+			],
+			[
+				"trna",
+				"translate"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"form",
+				"form	Tag"
+			],
+			[
+				"lore",
+				"lorem	Lorem ipsum"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"span",
+				"span	Tag"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"ba",
+				"basecolor"
+			],
+			[
+				"ligh",
+				"lighten"
+			],
+			[
+				"lig",
+				"lighten"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fl",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1994,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 2675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/index.html",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 1754,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "reind",
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ewins",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remve pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"b",
+				"Preferences: Browse Packages"
+			],
+			[
+				"broswe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brose",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL ",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Snippet: IE Conditional Comment: HTML5 Shim"
+			],
+			[
+				"cs",
+				"Set Syntax: Cyanide Sass & SCSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/lab/timekeeper",
+		"/D/lab/timekeeper/www",
+		"/D/lab/timekeeper/www/css",
+		"/D/lab/timekeeper/www/js",
+		"/D/lab/timekeeper/www/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/Dell-6/Desktop/share.svg",
+		"/D/work/news/css/news.css",
+		"/D/work/news/index.html",
+		"/D/work/news/js/jquery.min.js",
+		"/E/xampp/htdocs/bulksms/config/database.php",
+		"/D/work/rcc/www/html/account.html",
+		"/D/work/rcc/www/html/index.html",
+		"/D/work/rcc/www/html/list-your-car.html",
+		"/D/work/rcc/www/html/my-cars.html",
+		"/D/work/rcc/www/html/style/custom.min.css",
+		"/D/work/rcc/www/html/earnings.html",
+		"/D/work/rcc/www/html/payment.html",
+		"/D/work/rcc/www/html/earnings.htl",
+		"/D/work/rcc/www/html/style/jquery-modal.css",
+		"/D/work/rcc/www/html/script/modal/jquery.modal.js",
+		"/C/Users/Dell-6/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/work/rcc/www/html/style/responsive.css",
+		"/D/work/rcc/www/html/how-it-works.html",
+		"/D/work/rcc/www/html/blog.html",
+		"/D/work/rcc/www/html/404.html",
+		"/C/Users/Dell-6/AppData/Roaming/Sublime Text 3/Packages/material-theme-appbar-1.2.1/Material-Theme.sublime-theme",
+		"/C/Users/Dell-6/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/work/rcc/www/html/plugin/custombox/custombox.min.css",
+		"/D/xampp/htdocs/workshop/rcc/web/how-it-works.php",
+		"/D/xampp/htdocs/workshop/rcc/web/index.php",
+		"/D/work/autospa/www/html/style/custom.css",
+		"/D/work/autospa/www/html/index.html",
+		"/C/Users/Dell-6/Desktop/hello world.html",
+		"/C/Users/Dell-6/Desktop/test.less",
+		"/C/Users/Dell-6/Documents/Fuse/dummy/Assets/background3.png",
+		"/C/Users/Dell-6/Documents/Fuse/dummy/StateAnimation.ux",
+		"/C/Users/Dell-6/Documents/Fuse/dummy/dummy.unoproj",
+		"/C/Users/Dell-6/Documents/Fuse/dummy/MainView.ux",
+		"/C/Ruby21/bin/Rar$DIa0.501/StateAnimation.ux",
+		"/C/Users/Dell-6/AppData/Roaming/Sublime Text 3/Packages/Fuse/UserGuide.txt",
+		"/C/Users/Dell-6/Desktop/style.css",
+		"/C/Users/Dell-6/Desktop/switchery-master/switchery-master/dist/switchery.css",
+		"//es52/www/liddy/wp-content/themes/liddy/single.php",
+		"//ES52/www/jeff/wp-content/themes/jeff/functions.php",
+		"/E/gyan/learning-git/css/style.css",
+		"//ES52/www/jeff/wp-content/themes/jeff/homepage.php",
+		"/E/gyan/jeff/jeff/fonts/webfontkit-20160207-235536/stylesheet.css",
+		"/E/gyan/jeff/jeff/fonts/webfontkit-20160208-000542/stylesheet.css",
+		"/E/gyan/researchilluminate/homepage.php",
+		"/D/xaamp/htdocs/fashion/css/process.css",
+		"//es52/www/cassiomonroe/wp-content/themes/cassiomonroe/css/responsive.css",
+		"//es52/www/will/wp-content/themes/will/css/style.css",
+		"/D/xaamp/htdocs/lindsey-thompson/sass/lind.scss",
+		"//ap/htdocs/qwurk/wp-content/themes/qwurk/css/style.css",
+		"/C/Users/Dell-6/Desktop/aaa/index.html",
+		"/D/xaamp/htdocs/will-thomson/will-thomson/index.html",
+		"/C/Users/Dell-6/Downloads/config/1179395-0236ec5d03c6d62b56764f58ce994b01ad0d8466/config.rb",
+		"/E/kiran/libary/Simple-Date-Picker-for-Bootstrap/css/datepicker.css",
+		"/D/xaamp/htdocs/lindsey-thompson/css/style.css",
+		"/D/xaamp/htdocs/lindsey-thompson/index.html",
+		"//es52/www/cassiomonroe/wp-content/themes/cassiomonroe/functions.php",
+		"/I/header/css/style.css",
+		"/C/Users/Dell-6/Desktop/index.html",
+		"/I/lindsey-thompson/index.html",
+		"/I/lindsey-thompson/css/style.css",
+		"/D/xaamp/htdocs/lindsey-thompson/config.rb",
+		"/D/xaamp/htdocs/lindsey-thompson/lind.html",
+		"/E/shankar/fonts/venti/webfontkit-20151210-041501/stylesheet.css",
+		"/E/shankar/fonts/venti/webfontkit-20151210-041501/venticf-bold-webfont.woff",
+		"/D/xaamp/htdocs/lindsey-thompson/Fonts/venticf-bold-webfont.ttf",
+		"/E/button_anim/sass/button-anim.scss",
+		"/E/button_anim/index.html",
+		"/E/shankar/emax/style.css",
+		"/E/shankar/emax/index.php",
+		"/E/shankar/emax/header.php",
+		"/E/shankar/emax/functions.php",
+		"/E/shankar/emax/single.php",
+		"/C/Users/Dell-6/Downloads/securimage_show (1).php",
+		"/D/xaamp/htdocs/dahlia/config.rb",
+		"/E/New folder/button_anim/config.rb",
+		"/E/checkbox/style.css",
+		"/C/Users/Dell-6/Desktop/call.php",
+		"/E/shankar/call.php",
+		"/C/Users/Dell-6/Downloads/freebird(3)/index.html",
+		"/E/shankar/page-login.php",
+		"/E/shankar/register.php",
+		"/C/Users/Dell-6/Desktop/form.html",
+		"/C/Users/Dell-6/Downloads/freebird(3)/work.html",
+		"/E/shankar/style.css",
+		"/E/shankar/functions.php",
+		"/E/shankar/consignment.php",
+		"/E/shankar/level.php",
+		"/C/Users/Dell-6/Downloads/freebird(3)/consigment-ac.html",
+		"/C/Users/Dell-6/Downloads/freebird(3)/css/style.css",
+		"/E/shankar/home.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/consign_order.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/consignment.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/index.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/page-login.php",
+		"/E/shankar/work.php",
+		"/E/shankar/index.php",
+		"/C/Users/Dell-6/Desktop/blankslate/header.php",
+		"/C/Users/Dell-6/Desktop/blankslate/forms.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/register.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page-edit-account-info.php",
+		"/C/Users/Dell-6/Desktop/blankslate/category.php",
+		"/C/Users/Dell-6/Desktop/blankslate/aaaa/style.css",
+		"/C/Users/Dell-6/Desktop/blankslate/css/style.css",
+		"/C/Users/Dell-6/Desktop/blankslate/consign_order.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page-forgot-password.php",
+		"/C/Users/Dell-6/Desktop/blankslate/template2_smallgroup.php",
+		"/C/Users/Dell-6/Desktop/blankslate/functions.php",
+		"/C/Users/Dell-6/Desktop/blankslate/template2.php",
+		"/C/Users/Dell-6/Desktop/blankslate/css/media.css",
+		"/C/Users/Dell-6/Desktop/blankslate/shopp.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page-login.php",
+		"/C/Users/Dell-6/Desktop/index.php",
+		"/C/Users/Dell-6/Desktop/blankslate/register.php",
+		"/C/Users/Dell-6/Desktop/blankslate/level.php",
+		"/C/Users/Dell-6/Desktop/blankslate/consignment.php",
+		"/C/Users/Dell-6/Desktop/blankslate/search.php",
+		"/C/Users/Dell-6/Desktop/blankslate/sidebar.php",
+		"/C/Users/Dell-6/Desktop/blankslate/single.php",
+		"/C/Users/Dell-6/Desktop/blankslate/stepbystep2.php",
+		"/C/Users/Dell-6/Desktop/blankslate/stepbystep.php",
+		"/C/Users/Dell-6/Desktop/blankslate/footer.php",
+		"/C/Users/Dell-6/Desktop/blankslate/toolkit.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page-toolkit.php",
+		"/C/Users/Dell-6/Desktop/blankslate/template1.php",
+		"/C/Users/Dell-6/Desktop/blankslate/logger_flag.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page.php",
+		"/C/Users/Dell-6/Desktop/blankslate/product.php",
+		"/C/Users/Dell-6/Desktop/blankslate/page-profile-edit.php"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"D:\\work\\rcc\\www\\html",
+			"C:\\Users\\Dell-6\\Downloads\\freebird(3)"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"json",
+			"model",
+			"popup",
+			"attendance",
+			"style=\"opacity: 0",
+			"title_over",
+			"style=\"opaci",
+			"style=\"opac",
+			"style=\"opacity: 0",
+			"featured-image",
+			"username",
+			"title",
+			"project name",
+			"upper-banner-content",
+			"form[name=\"signup-form\"] input[type=\"checkbox\"]{",
+			"sidebar",
+			"521",
+			"#sidebar .lang-item.current-lang{",
+			"upper-banner",
+			"@media",
+			"media",
+			"767",
+			"9",
+			"upper-banner",
+			"upper-banner-content",
+			"ridelink",
+			"link",
+			"Ride",
+			"ride",
+			"rent a ",
+			"rcc-daily",
+			"rcc",
+			"onchange",
+			"you earn",
+			"upload photo",
+			"edit photos",
+			"good photos",
+			"i acknow",
+			"this is your",
+			"you have",
+			"maximize",
+			"upload photo",
+			"save",
+			"next",
+			"upload",
+			"template-width",
+			"photos",
+			"3</span>",
+			".grey-block .template-layout-33x33x33.template-layout-margin-reset>.template-layout-column-left",
+			"daily",
+			"input type=\"text\"",
+			"input",
+			"no thanks",
+			"\"text\"",
+			"no thanks",
+			"5",
+			"price",
+			"checkbox",
+			"availa",
+			"radio",
+			"check",
+			"checkbox",
+			"greyblock",
+			"select features",
+			"greyblock",
+			"insurance",
+			"acknowledge",
+			"#select",
+			"hybrid",
+			"hubrid",
+			"acknowledge",
+			"select features",
+			"checkbox",
+			"fieldset.grey-block textarea",
+			"describe your car",
+			"background-",
+			"background",
+			"input",
+			"next",
+			"your car",
+			"3",
+			"vehicle type",
+			"4",
+			"1/4",
+			"template-content",
+			"save",
+			"space",
+			"location",
+			"list your car",
+			"manage",
+			"-right",
+			"*-right",
+			"sign up",
+			"make",
+			"year",
+			"form",
+			"template-section",
+			"section",
+			"templat-section",
+			"template-section",
+			"model",
+			"ridelink",
+			"select",
+			"fieldset",
+			"767",
+			"border-top",
+			"section",
+			"static",
+			"template-main",
+			"my cars",
+			"list your car",
+			"elli",
+			"elle",
+			"overflow",
+			"name",
+			"ma,e",
+			"name",
+			".name",
+			"767",
+			".car-photo",
+			"save",
+			"template-form-save\\\\",
+			"expiration month",
+			"payment-methods",
+			"Payment",
+			"payment",
+			"free to join",
+			"template-header-background"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1994,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2042,
+								2042
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1211.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1848,
+								1848
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1848,
+										1849
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1837,
+										1838
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 711.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								935,
+								775
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1744,
+										1752
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										9
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.css3_validator":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "timekeeper.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"blog",
+				"blog.html"
+			],
+			[
+				"how-it",
+				"how-it-works.html"
+			],
+			[
+				"acc",
+				"account.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"my",
+				"my-cars.html"
+			],
+			[
+				"earnings",
+				"earnings.html"
+			],
+			[
+				"earni",
+				"earnings.htl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "inhead",
+		"selected_items":
+		[
+			[
+				"inhead",
+				"D:\\work\\inheadlines\\inheadlines.sublime-workspace"
+			],
+			[
+				"",
+				"D:\\work\\aakash-sms.sublime-project"
+			],
+			[
+				"timekeeper",
+				"D:\\work\\aakash_sms\\timekeeper.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

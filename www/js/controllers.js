@@ -41,12 +41,12 @@ angular.module('starter.controllers', [])
   };
 })
 
-.controller('ThisWeekCtrl', function($scope, $ionicPopup){
+.controller('ThisWeekCtrl', function($scope, $filter, $ionicPopup){
   $scope.playlists = [
   { title: 'Monday', login_time: "9:00", logout_time: "6:00", id: 1 },
   { title: 'Tuesday', login_time: "9:13", logout_time: "6:05", id: 2 },
   { title: 'Wednesday', login_time: "9:02", logout_time: "6:00", id: 3 },
-  { title: 'Thursday', login_time: "9:09", logout_time: "5:45", id: 4 },
+  // { title: 'Thursday', login_time: "9:09", logout_time: "5:45", id: 4 },
     // { title: 'Friday', login_time: "9:11", logout_time: "6:25", id: 5 },    
     ];
 
@@ -55,17 +55,21 @@ angular.module('starter.controllers', [])
   //    status2 : 'Sign Out'
   //  };
 
-
- 
+  
+  var date = $filter('date')(new Date(), "mediumTime");
+   
   // An alert dialog
   $scope.attendance = function() {
+  
+
 
     var attendance = $ionicPopup.alert({
+      scope: $scope,
      title: 'Signed In',
-     template: 'You signed in at 9:06am.'
+     template: 'You signed in at ' + date
    });
    attendance.then(function(res) {
-     console.log('User signed in at 9:06am.');
+     console.log('User signed in at 9:06am.');       
    });
  };
 
